@@ -1,0 +1,85 @@
+﻿@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+
+<form action="Create" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Book</h4>
+        <hr />
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Book Title</label>
+            <div class="col-md-10">
+                <input type="text" name="title" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Book Category</label>
+            <div class="col-md-10">
+                <select name="cateID" class="custom-select" id="inputGroupSelect01">
+                    <option selected>Choose...</option>
+                    @foreach (var item in ViewBag.BookCate)
+                    {
+                        <option value="@item.cateID">@item.cateName</option>
+                    }
+                </select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Book Author</label>
+            <div class="col-md-10">
+                <select name="authorID" class="custom-select" id="inputGroupSelect01">
+                    <option selected>Choose...</option>
+                    @foreach (var item in ViewBag.author)
+                    {
+                        <option value="@item.authorID">@item.authorName</option>
+                    }
+                </select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Book Publisher</label>
+            <div class="col-md-10">
+                <select name="publisherID" class="custom-select" id="inputGroupSelect01">
+                    <option selected>Choose...</option>
+                    @foreach (var item in ViewBag.publisher)
+                    {
+                        <option value="@item.publisherID">@item.publisherName</option>
+                    }
+                </select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Book Genre</label>
+            <div class="col-md-10">
+                <input type="text" name="Genre" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Book Price</label>
+            <div class="col-md-10">
+                <input type="number" name="price" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

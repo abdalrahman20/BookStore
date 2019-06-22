@@ -1,0 +1,50 @@
+﻿@model IEnumerable<BookStore.Models.Book>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Books</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                Title
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Genre
+            </th>
+            <th>
+                Options
+            </th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.title
+            </td>
+            <td>
+                @item.price
+            </td>
+            <td>
+                @item.Genre
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.bookID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.bookID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.bookID })
+            </td>
+        </tr>
+    }
+
+</table>
