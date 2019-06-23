@@ -16,3 +16,21 @@ c:\users\abdalrahman\documents\visual studio 2013\Projects\BookStore\WebAPI\bin\
 c:\users\abdalrahman\documents\visual studio 2013\Projects\BookStore\WebAPI\bin\System.Web.Http.WebHost.xml
 c:\users\abdalrahman\documents\visual studio 2013\Projects\BookStore\WebAPI\obj\Debug\WebAPI.dll
 c:\users\abdalrahman\documents\visual studio 2013\Projects\BookStore\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\WebAPI.dll.config
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\WebAPI.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\WebAPI.pdb
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\EntityFramework.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\System.Web.Http.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\EntityFramework.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\System.Web.Http.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\WebAPI\obj\Debug\WebAPI.pdb
