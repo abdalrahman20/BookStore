@@ -26,3 +26,31 @@ c:\users\abdalrahman\documents\visual studio 2013\Projects\BookStore\BookStore\b
 c:\users\abdalrahman\documents\visual studio 2013\Projects\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
 c:\users\abdalrahman\documents\visual studio 2013\Projects\BookStore\BookStore\bin\EntityFramework.xml
 c:\users\abdalrahman\documents\visual studio 2013\Projects\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\BookStore.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.IO.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Net.Http.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Net.Http.Formatting.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\Abdalrahman\Documents\GitHub\BookStore\BookStore\obj\Debug\BookStore.pdb
